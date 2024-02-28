@@ -30,16 +30,4 @@ Untuk menyelesaikan tantangan ini, kami akan menggunakan teknik analisis data da
 3. **Model Development**: Mengembangkan dan mengevaluasi model machine learning untuk memprediksi status karyawan.
 4. **Interpretability Analysis**: Menganalisis faktor-faktor yang paling berpengaruh dalam keputusan model.
 
-## Lisensi
 
-Proyek ini dilisensikan di bawah MIT License. Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
-
-## Kontribusi
-
-Kontribusi terhadap proyek ini sangat dihargai. Silakan buka sebuah *pull request* untuk menyarankan perubahan atau tambahan fitur.
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui email: peopleanalytics@perusahaan.com.
-
-Terima kasih atas perhatiannya dan kami berharap proyek ini dapat memberikan wawasan yang berharga bagi HRD dan pengelola sumber daya manusia di perusahaan Anda.
